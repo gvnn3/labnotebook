@@ -14,5 +14,9 @@ Submissions are most welcome and should be sent via pull request.
 Once a submission is accepted the submitter's name will be added to the
 Contributors section below.
 
+**FORK ME**: The easiest way to start using these lab notebooks in 
+your own work is to fork this repo into one of your own, and then,
+for each new project, fork that notebook, or this one.
+
 # Contributors
 
