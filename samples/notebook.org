@@ -39,11 +39,16 @@ The following changes are in my .emacs file for use with ELNs
 ** Example Entry
 
 *** <2023-09-01 Fri> Getting the time in user space           :in_progress:
+:LOGBOOK:
+CLOCK: [2023-09-05 Tue 14:45]
+:END:
 
 **** Hypothesis
 
 What are you trying to show?  Be specific about what you are
 measuring: time, transactions, size of data, latency etc.
+
+Discussion.  This is the place to ruminate on the hypothesis.
 
 **** How
 
