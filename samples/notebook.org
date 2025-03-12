@@ -34,7 +34,14 @@ The following changes are in my .emacs file for use with ELNs
 ;; Setup an org mode custom date to match for ELNs
 
 (setq-default org-display-custom-times t)
-(setq org-time-stamp-custom-formats '("<%e %b %Y>" . "<%e %b %Y %H:%M>"))
+(setq org-time-stamp-custom-formats '("<%e %b %Y>" . "<%e %b %Y
+%H:%M>"))
+
+*** Add this to the top of each org file
+
+#+BEGIN_SRC
+#+TAGS: in_progress(i) proven(p) disproven(d)
+#+END_SRC
 
 ** Example Entry
 
