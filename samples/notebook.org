@@ -55,7 +55,9 @@ CLOCK: [2023-09-05 Tue 14:45]
 What are you trying to show?  Be specific about what you are
 measuring: time, transactions, size of data, latency etc.
 
-Discussion.  This is the place to ruminate on the hypothesis.
+**** Discussion
+
+This is the place to ruminate on the hypothesis.
 
 **** How
 
